@@ -1,0 +1,22 @@
+{
+  "name": "ccfs_1",
+  "version": "1.0.0",
+  "description": "Classic Car Show Finder App",
+  "main": "EventDetailsScreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BTS-Github-01 <jody.brown@browntechnicalservices.com>",
+  "license": "ISC",
+  "repository": "https://github.com/BTS-Github-01/CCFS_1",
+  "dependencies": {
+    "expo": "^52.0.39",
+    "expo-image-picker": "^16.0.6",
+    "firebase": "^11.4.0",
+    "react-native": "^0.78.0",
+    "react-native-maps": "^1.20.1",
+    "react-native-vector-icons": "^10.2.0",
+    "react-navigation": "^5.0.0"
+  }
+}
